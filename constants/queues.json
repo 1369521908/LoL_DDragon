@@ -288,6 +288,12 @@
         "notes": "Deprecated in patch 9.23"
     },
     {
+        "queueId": 480,
+        "map": "Summoner's Rift",
+        "description": "Swiftplay Games",
+        "notes": null
+    },
+    {
         "queueId": 490,
         "map": "Summoner's Rift",
         "description": "Normal (Quickplay)",
@@ -339,16 +345,34 @@
         "queueId": 830,
         "map": "Summoner's Rift",
         "description": "Co-op vs. AI Intro Bot games",
-        "notes": null
+        "notes": "Deprecated in March 2024 in favor of queueId 870"
     },
     {
         "queueId": 840,
         "map": "Summoner's Rift",
         "description": "Co-op vs. AI Beginner Bot games",
-        "notes": null
+        "notes": "Deprecated in March 2024 in favor of queueId 880"
     },
     {
         "queueId": 850,
+        "map": "Summoner's Rift",
+        "description": "Co-op vs. AI Intermediate Bot games",
+        "notes": "Deprecated in March 2024 in favor of queueId 890"
+    },
+    {
+        "queueId": 870,
+        "map": "Summoner's Rift",
+        "description": "Co-op vs. AI Intro Bot games",
+        "notes": null
+    },
+    {
+        "queueId": 880,
+        "map": "Summoner's Rift",
+        "description": "Co-op vs. AI Beginner Bot games",
+        "notes": null
+    },
+    {
+        "queueId": 890,
         "map": "Summoner's Rift",
         "description": "Co-op vs. AI Intermediate Bot games",
         "notes": null
@@ -480,6 +504,12 @@
         "notes": "Deprecated in patch 9.2"
     },
     {
+        "queueId": 1210,
+        "map": "Convergence",
+        "description": "Teamfight Tactics Choncc's Treasure Mode",
+        "notes": "null"
+    },
+    {
         "queueId": 1300,
         "map": "Nexus Blitz",
         "description": "Nexus Blitz games",
@@ -504,6 +534,30 @@
         "notes": "16 player lobby"
     },
     {
+        "queueId": 1810,
+        "map": "Swarm",
+        "description": "Swarm Mode Games",
+        "notes": "Swarm Mode 1 player"
+     },
+     {
+        "queueId": 1820,
+        "map": "Swarm Mode Games",
+        "description": "Swarm",
+        "notes": "Swarm Mode 2 players"
+     },
+     {
+        "queueId": 1830,
+        "map": "Swarm Mode Games",
+        "description": "Swarm",
+        "notes": "Swarm Mode 3 players"
+     },
+     {
+        "queueId": 1840,
+        "map": "Swarm Mode Games",
+        "description": "Swarm",
+        "notes": "Swarm Mode 4 players"
+     },
+    {
         "queueId": 1900,
         "map": "Summoner's Rift",
         "description": "Pick URF games",
@@ -525,6 +579,18 @@
         "queueId": 2020,
         "map": "Summoner's Rift",
         "description": "Tutorial 3",
+        "notes": null
+    },
+    {
+        "queueId": 2300,
+        "map": "The Bandlewood",
+        "description": "Brawl",
+        "notes": null
+    },
+    {
+        "queueId": 2400,
+        "map": "Howling Abyss",
+        "description": "ARAM: Mayhem",
         "notes": null
     }
 ]

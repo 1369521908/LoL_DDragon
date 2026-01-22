@@ -78,5 +78,13 @@
     {
         "gameMode": "ULTBOOK",
         "description": "Ultimate Spellbook games"
+    },
+    {
+        "gameMode": "SWIFTPLAY",
+        "description": "Swiftplay Games"
+    },
+    {
+        "gameMode": "BRAWL",
+        "description": "Brawl"
     }
 ]
